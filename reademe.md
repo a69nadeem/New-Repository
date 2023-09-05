@@ -1,8 +1,0 @@
--Apples
--Bananars 
--Cherries
--Shoes
--Elederberries
--Oranges
--Mangoes
--Graps
